@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Temporary files
+*.txt
+*.log
+
+# Test scripts
+test_*.py
+check_*.py
+debug_*.py
+generate_*.py
+small_test.py
+derive_address.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
