@@ -21,8 +21,8 @@ wheels/
 *.egg
 
 # Temporary files
-*.txt
 *.log
+!requirements.txt
 
 # Test scripts
 test_*.py

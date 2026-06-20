@@ -1,0 +1,7 @@
+mnemonic>=0.20
+base58>=2.1.1
+coincurve>=19.0.0
+eth-utils>=5.0.0
+bech32>=1.2.0
+solders>=0.27.0
+pyinstaller>=6.0.0
