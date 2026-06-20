@@ -112,12 +112,3 @@ If this tool helped you recover your funds, please consider donating to support 
 
 MIT License
 
----
-
-### 📝 For Developers Publishing This Repo:
-Don't forget to replace these placeholders in the README:
-- `YOUR_USERNAME` → your GitHub username
-- `YOUR_REPO_NAME` → your repo name (e.g., `crypto-seed-recovery`)
-
-Then create a GitHub Release and attach your compiled .exe and macOS binaries!
-
