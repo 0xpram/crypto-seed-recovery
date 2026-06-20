@@ -2,6 +2,8 @@
 
 A modern, open-source GUI tool to recover seed phrases for **Bitcoin, Ethereum, and Solana** when you forgot up to 5 words!
 
+![App Screenshot](screenshot.png)
+
 ---
 
 ## ⬇️ Download
